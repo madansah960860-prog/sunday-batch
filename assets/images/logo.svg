@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32"
+     fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"
+     role="img" aria-label="A bowl with a leaf rising from it">
+  <title>Sunday Batch</title>
+  <path d="M4 15h24a12 12 0 0 1-24 0Z"/>
+  <path d="M16 15c0-5 3.5-8 8-8.5-.3 4.6-3.3 8-8 8.5Z"/>
+  <path d="M16 15V9" opacity=".6"/>
+</svg>

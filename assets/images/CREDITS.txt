@@ -1,0 +1,72 @@
+IMAGE CREDITS - Sunday Batch
+All photographs are downloaded and served locally from assets/images/.
+Nothing is hotlinked. No watermarks, no brand logos, and no people at all in
+this set, which is this site's photographic direction: bright high-key, clean
+overhead, fresh slightly-cool grade, pale ceramic and marble surfaces.
+
+NOTE ON WHAT THE PHOTOGRAPHS SHOW: these are library photographs of the kind
+of dish each recipe describes, not photographs taken of these exact recipes.
+Alt text describes what is actually visible in each frame.
+
+Licence for every file: Pexels Licence - free for commercial and
+non-commercial use, no attribution required. Credit given voluntarily.
+====================================================================
+
+hero/hero-bowls.jpg
+  title      : Bowls with salads
+  source     : https://www.pexels.com/photo/bowls-with-salads-19150338/
+
+bowls/miso-peanut-noodles.jpg
+  title      : Photograph of bowls with Hawaiian food
+  source     : https://www.pexels.com/photo/photograph-of-bowls-with-hawaiian-food-4828105/
+
+bowls/chickpea-grain-bowl.jpg
+  title      : Buddha bowl in close-up shot
+  source     : https://www.pexels.com/photo/buddha-bowl-in-close-up-shot-6978180/
+
+bowls/overnight-oats.jpg
+  title      : A bowl with oatmeal and fruits
+  source     : https://www.pexels.com/photo/a-bowl-with-oatmeal-and-fruits-8286777/
+
+bowls/green-shakshuka.jpg
+  title      : Overhead shot of shakshuka in a pan
+  source     : https://www.pexels.com/photo/overhead-shot-of-shakshuka-in-a-pan-6275160/
+
+bowls/sesame-slaw.jpg
+  title      : Salad with summer greens and purple cabbage
+  source     : https://www.pexels.com/photo/salad-with-summer-greens-and-purple-cabbage-4198017/
+
+bowls/sweet-potato-lentil-stew.jpg
+  title      : Photo of soup in a white bowl
+  source     : https://www.pexels.com/photo/photo-of-soup-in-white-bowl-9027516/
+
+steps/step-prep.jpg
+  title      : Assorted ingredients in bowls, jars and measuring cups
+  source     : https://www.pexels.com/photo/assorted-ingredients-in-bowls-jars-and-measuring-cups-8108012/
+
+steps/step-beans.jpg
+  title      : Beans in bowls
+  source     : https://www.pexels.com/photo/beans-in-bowls-4224259/
+
+steps/step-soy.jpg
+  title      : Top view photo of soybeans in a bowl near a glass of soy milk
+  source     : https://www.pexels.com/photo/top-view-photo-of-soybeans-on-bowl-near-drinking-glass-with-soy-milk-4518617/
+
+steps/step-herbs.jpg
+  title      : Bowl with cottage cheese and fresh herbs
+  source     : https://www.pexels.com/photo/bowl-with-cottage-cheese-and-fresh-herbs-4198142/
+
+steps/step-berries.jpg
+  title      : Strawberries on a white ceramic bowl
+  source     : https://www.pexels.com/photo/strawberries-on-white-ceramic-bowl-13486966/
+
+steps/step-radish.jpg
+  title      : Fresh radishes in a bowl on a table
+  source     : https://www.pexels.com/photo/fresh-radishes-in-bowl-on-table-4198039/
+
+og/og-sunday-batch.jpg
+  title      : Healthy salad on a table
+  source     : https://www.pexels.com/photo/healthy-salad-on-table-9218777/
+
+--------------------------------------------------------------------
+assets/images/logo.svg and favicon.svg are hand-drawn for this site.
